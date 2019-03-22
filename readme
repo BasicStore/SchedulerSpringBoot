@@ -1,0 +1,2 @@
+Scheduler with spring - no good for dynamic changes to the schedulers though:
+https://spring.io/guides/gs/scheduling-tasks/
