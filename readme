@@ -1,2 +1,7 @@
+SCHEDULING WITH SPRING BOOT
+
+Very simple to do, but much more restrictive than using Quartz.
+For example, changing schedulers dynamically is not possible.
+
 Scheduler with spring - no good for dynamic changes to the schedulers though:
 https://spring.io/guides/gs/scheduling-tasks/
